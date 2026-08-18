@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <!-- Outer circle -->
+    <path
+        android:fillColor="@color/gold_primary"
+        android:pathData="M64,4 C30.857,4 4,30.857 4,64 C4,97.143 30.857,124 64,124 C97.143,124 124,97.143 124,64 C124,30.857 97.143,4 64,4 Z" />
+    <!-- Inner checkmark -->
+    <path
+        android:fillColor="@color/black_amoled"
+        android:pathData="M40,64 L56,80 L88,40"
+        android:strokeWidth="8"
+        android:strokeColor="@color/black_amoled"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

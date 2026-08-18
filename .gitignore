@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+*.gradle.kts
+
+# Build outputs
+app/build/
+*.apk
+*.aab
+*.ap_
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+
+# Keystore (contains private key - NEVER COMMIT)
+keystore/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

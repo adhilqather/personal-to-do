@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - AMOLED Black + Luxury Gold -->
+    <color name="black_amoled">#000000</color>
+    <color name="black_surface_1">#080808</color>
+    <color name="black_surface_2">#0D0D0D</color>
+    <color name="black_surface_3">#121212</color>
+
+    <!-- Gold Accents -->
+    <color name="gold_primary">#D4AF37</color>
+    <color name="gold_bright">#FFD700</color>
+    <color name="gold_dark">#C9A227</color>
+    <color name="gold_subtle">#B8962E</color>
+
+    <!-- Gold with Alpha -->
+    <color name="gold_10">#1AD4AF37</color>
+    <color name="gold_15">#26D4AF37</color>
+    <color name="gold_20">#33D4AF37</color>
+    <color name="gold_30">#4DD4AF37</color>
+    <color name="gold_50">#80D4AF37</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_muted">#707070</color>
+    <color name="text_on_gold">#000000</color>
+
+    <!-- Priority Colors (Gold variants) -->
+    <color name="priority_low">#34C759</color>
+    <color name="priority_medium">#FF9500</color>
+    <color name="priority_high">#FF3B30</color>
+
+    <!-- Status Colors -->
+    <color name="completed_green">#34C759</color>
+    <color name="active_blue">#007AFF</color>
+
+    <!-- Borders & Dividers -->
+    <color name="border_subtle">#1A1A1A</color>
+    <color name="border_gold">#2DD4AF37</color>
+
+    <!-- Shadows -->
+    <color name="shadow_black">#000000</color>
+    <color name="shadow_gold">#33D4AF37</color>
+
+    <!-- Priority chip background (set dynamically in code) -->
+    <color name="old_priority_color">#1A1A1A</color>
+
+    <!-- System -->
+    <color name="transparent">#00000000</color>
+</resources>
